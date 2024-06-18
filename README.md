@@ -47,5 +47,6 @@ https://nbviewer.org/github/Mo-Khalifa96/Dimensionality-Reduction-for-Facial-Rec
 https://mybinder.org/v2/gh/Mo-Khalifa96/Dimensionality-Reduction-for-Facial-Recognition-and-Classification/main?labpath=Dimensionality+Reduction+for+Facial+Recognition+and+Facilitated+Model+Implementation.ipynb
 <br>
 <br>
+<br>
 
 
