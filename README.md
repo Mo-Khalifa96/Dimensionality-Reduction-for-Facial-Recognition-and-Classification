@@ -42,6 +42,7 @@
 https://nbviewer.org/github/Mo-Khalifa96/Dimensionality-Reduction-for-Facial-Recognition-and-Classification/blob/main/Dimensionality%20Reduction%20for%20Facial%20Recognition%20and%20Facilitated%20Model%20Implementation.ipynb
 <br>
 <br>
+<br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
 https://mybinder.org/v2/gh/Mo-Khalifa96/Dimensionality-Reduction-for-Facial-Recognition-and-Classification/main?labpath=Dimensionality+Reduction+for+Facial+Recognition+and+Facilitated+Model+Implementation.ipynb
 <br>
