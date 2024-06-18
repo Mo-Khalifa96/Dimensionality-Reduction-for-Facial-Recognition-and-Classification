@@ -28,7 +28,7 @@
 **Here is a sample of the faces featured in the data:**
 <br>
 
-<img src="faces sample.png" alt="ongoing projects/faces sample.png" width="800" height="600"/>
+<img src="faces sample.png" alt="ongoing projects/faces sample.png" width="650" height="450"/>
 
 <br>
 <br>
