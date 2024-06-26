@@ -110,7 +110,7 @@ def evaluate_reconstruction(X, estimator, face_indx):
     plt.title("Approximated Image")
     plt.axis('off')
     plt.show()
-    print('\n\n_____________________________________________________________________________________________\n\n')
+    print('\n\n' + '_'*90 + '\n\n')
 
 #Define function to compare images from the train and test sets
 def plot_TrainVsTest(X_train, X_test, h, w, train_indx, test_indx, N_imgs):
@@ -132,10 +132,10 @@ def plot_TrainVsTest(X_train, X_test, h, w, train_indx, test_indx, N_imgs):
         plt.title(f'Test sample {test_sample}')
         plt.axis('off')
         plt.show()
-        print('\n\n___________________________________________________________________________________\n\n')
+        print('\n\n' + '_'*85 + '\n\n')
 
 #Define custom function to specify threshold criteria for measuring image similarity
-def get_threshold(dist_similarity, dist_sim_indices, max_cos=0.1, min_cos=0):
+def get_threshold(dist_similarity, dist_sim_indices, min_cos=0, max_cos=0.1):
     X_train_indx = np.where(np.logical_and( (dist_similarity>min_cos), (dist_similarity<max_cos) ))[0]
     X_test_indx = dist_sim_indices[np.logical_and( (dist_similarity>min_cos), (dist_similarity<max_cos) )]
     return X_train_indx, X_test_indx
